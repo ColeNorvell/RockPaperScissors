@@ -1,6 +1,6 @@
 import random
 import sys
-#Greet
+#Greet player
 answer = raw_input("Would you like to play a game? ")
 if answer == "yes":
 	print ("Very well")
